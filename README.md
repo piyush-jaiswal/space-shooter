@@ -6,4 +6,4 @@
 <div>Left click - fire</div>
 <div>R - restart</div>
 
-<a>piyush-jaiswal.github.io</a>
+#####[Click to play!](https://piyush-jaiswal.github.io/)
