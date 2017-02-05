@@ -6,6 +6,6 @@
 <div>Left click - fire</div>
 <div>R - restart</div>
 
-**Recommended browser - IE, Firefox, Opera.**
+**Recommended browser - IE, Firefox, Opera. Adjust zoom for better view.**
 
 ##[Click to play!](https://piyush-jaiswal.github.io/)
