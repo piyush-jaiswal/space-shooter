@@ -1,2 +1,9 @@
 # Space-Shooter
-A simple 2-D space shooting game developed using Unity.
+### A simple 2-D space shooting game developed using Unity.
+
+####CONTROLS
+<div>WSAD or arrow keys - move</div>
+<div>Left click - fire</div>
+<div>R - restart</div>
+
+<a>piyush-jaiswal.github.io</a>
