@@ -1,11 +1,4 @@
 # Space-Shooter
 ### A simple 2-D space shooting game developed using Unity.
 
-####  CONTROLS
-<div>WSAD or arrow keys - move</div>
-<div>Left click - fire</div>
-<div>R - restart</div>
-
-**Recommended browser - IE, Firefox, Opera. Adjust zoom for better view.**
-
-## [Click to play!](https://piyush-jaiswal.github.io/)
+![](https://github.com/piyush-jaiswal/Space-Shooter/blob/master/Assets/SpaceShooter.gif)
