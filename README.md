@@ -9,7 +9,7 @@ Shoot - `Left click` / `left CTRL`
 Restart - `R`
 <br>
 
-[Play!](https://piyush-jaiswal.github.io/Space-Shooter/)
+### [Play!](https://piyush-jaiswal.github.io/Space-Shooter/)
 
 <p align="center">
   <img src="https://github.com/piyush-jaiswal/Space-Shooter/blob/master/Assets/SpaceShooter.gif">
